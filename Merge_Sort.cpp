@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// https://www.geeksforgeeks.org/merge-sort/
+// https://leetcode.com/problems/sort-an-array
 class Solution {
 public:
 
